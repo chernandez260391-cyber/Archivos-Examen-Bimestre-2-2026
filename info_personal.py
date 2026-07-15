@@ -1,4 +1,4 @@
-nombre = "CARLOS ALFREDO HERNANDEZ AGUILERA"
+nombre = "CARLOS ALFREDO HERNÁNDEZ AGUILERA"
 rut = "17.862.149-1"
 
 print(f"Nombre Completo: {nombre}")
